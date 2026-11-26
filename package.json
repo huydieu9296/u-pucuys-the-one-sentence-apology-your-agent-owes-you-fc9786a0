@@ -1,0 +1,11 @@
+{
+  "description": "The One-Sentence Apology Your Agent Owes You \u2014 one sentence, one real failure (make.fun bounty entry)",
+  "license": "MIT",
+  "main": "main.ts",
+  "name": "u-pucuys-the-one-sentence-apology-your-agent-owes-you-fc9786a0",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
